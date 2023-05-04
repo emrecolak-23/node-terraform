@@ -20,7 +20,7 @@ jobs:
       INSTAMCE_NAME: lab-7-instance
       IMAGE_NAME: lab-7-image
       CONTAINER_NAME: lab-7-container
-      GITHUB_REPO_URL: <ADD-HERE-YOUR-PRIVATE-GIT-REPO-URL>
+      GITHUB_REPO_URL: https://emrecolak-23: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@github.com/emrecolak-23/node-terraform.git
 
     # Add "id-token" with the intended permissions.
     permissions:
